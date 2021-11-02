@@ -13,11 +13,11 @@
 
 
 	<div class="carousel">
-		<a class="carousel-item" href="#one!"><img src="img/Han_Solo.jpg"></a>
-		<a class="carousel-item" href="#two!"><img src="img/Han_Solo.jpg"></a>
-		<a class="carousel-item" href="#three!"><img src="img/Han_Solo.jpg"></a>
-		<a class="carousel-item" href="#four!"><img src="img/Han_Solo.jpg"></a>
-		<a class="carousel-item" href="#five!"><img src="img/Han_Solo.jpg"></a>
+		<a class="carousel-item" href="#one!"><img src="img/Han_Solo.jpg" alt="Han Solo"></a>
+		<a class="carousel-item" href="#two!"><img src="img/Han_Solo.jpg" alt="Han Solo"></a>
+		<a class="carousel-item" href="#three!"><img src="img/Han_Solo.jpg" alt="Han Solo"></a>
+		<a class="carousel-item" href="#four!"><img src="img/Han_Solo.jpg" alt="Han Solo"></a>
+		<a class="carousel-item" href="#five!"><img src="img/Han_Solo.jpg" alt="Han Solo"></a>
 	  </div>
 </main>
 
